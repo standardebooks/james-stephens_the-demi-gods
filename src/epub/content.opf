@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/james-stephens/the-demi-gods</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-05-24T23:39:03Z</dc:date>
+		<meta property="dcterms:modified">2023-05-24T23:39:03Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -39,17 +39,17 @@
 		<meta property="term" refines="#subject-3">sh2007101113</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Philosophy</meta>
-		<dc:description id="description">Three demi-gods in the form of angels descend among humanity, stumbling upon a father, daughter, and their donkey traveling around rural Ireland.</dc:description>
+		<dc:description id="description">Three demi-gods descend among humanity in the form of angels, stumbling upon a father, his daughter, and their donkey traveling around rural Ireland.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Patsy Mac Cann spends his days wandering rural Ireland with his daughter Mary Mac Cann and their donkey. They set up camp for the night and are surprised by three recently landed winged demi-gods. The demi-gods, strangers to humanity and in need of guide, decide to follow the Mac Canns. The group begins their adventure on the winding Irish roads, encountering locals-each with their own story to tell.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/james-stephens"&gt;James Stephen&lt;/a&gt; throughout the novel takes us on a journey of storytelling, weaving in otherworldly and everyday stories about love, harmony, and materialism. Several of his works including &lt;i&gt;The-Demi-Gods&lt;/i&gt;, draw inspiration from Irish folklore and mythology.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Demi-Gods&lt;/i&gt; was published in 1914, after the release of James Stephen’s most commercially successful work &lt;a href="https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold"&gt;&lt;i&gt;The Crock of Gold&lt;/i&gt;&lt;/a&gt; in 1912.&lt;/p&gt;
+			&lt;p&gt;Patsy Mac Cann spends his days wandering rural Ireland with his daughter Mary Mac Cann and their donkey. They set up camp for the night and are surprised by the appearance of three demi-gods. The demi-gods, strangers to humanity and in need of guidance, decide to follow the Mac Canns. The group begins their adventure on the winding Irish roads, encountering locals—each with their own story to tell.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;The Demi_Gods&lt;/i&gt; &lt;a href="https://standardebooks.org/ebooks/james-stephens"&gt;James Stephen&lt;/a&gt; takes us on a journey of storytelling, weaving in otherworldly and everyday stories about love, harmony, and materialism. Several of his stories draw inspiration from Irish folklore and mythology.&lt;/p&gt;
+			&lt;p&gt;The novel was published in 1914, following the 1912 release of Stephen’s most commercially-successful work, &lt;a href="https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold"&gt;&lt;i&gt;The Crock of Gold&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/46558</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.79406</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">48129</meta>
+		<meta property="se:reading-ease.flesch">76.45</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/james-stephens_the-demi-gods</meta>
 		<dc:creator id="author">James Stephens</dc:creator>
 		<meta property="file-as" refines="#author">Stephens, James</meta>
@@ -79,6 +79,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">http://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>

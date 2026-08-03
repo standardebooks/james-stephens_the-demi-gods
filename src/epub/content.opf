@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/james-stephens/the-demi-gods</dc:identifier>
 		<dc:date>2023-05-24T23:39:03Z</dc:date>
@@ -41,12 +41,12 @@
 		<meta property="term" refines="#subject-3">sh2007101113</meta>
 		<meta property="schema:genre">Fantasy</meta>
 		<meta property="schema:genre">Philosophy</meta>
-		<dc:description id="description">Three demi-gods descend among humanity in the form of angels, stumbling upon a father, his daughter, and their donkey traveling around rural Ireland.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Three demi-gods descend among humanity in the form of angels, stumbling upon a father, his daughter, and their donkey traveling around rural Ireland.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Patsy Mac Cann spends his days wandering rural Ireland with his daughter Mary Mac Cann and their donkey. They set up camp for the night and are surprised by the appearance of three demi-gods. The demi-gods, strangers to humanity and in need of guidance, decide to follow the Mac Canns. The group begins their adventure on the winding Irish roads, encountering locals—each with their own story to tell.&lt;/p&gt;
 			&lt;p&gt;In &lt;i&gt;The Demi-Gods&lt;/i&gt; &lt;a href="https://standardebooks.org/ebooks/james-stephens"&gt;James Stephen&lt;/a&gt; takes us on a journey of storytelling, weaving in otherworldly and everyday stories about love, harmony, and materialism. Several of his stories draw inspiration from Irish folklore and mythology.&lt;/p&gt;
 			&lt;p&gt;The novel was published in 1914, following the 1912 release of Stephen’s most commercially successful work, &lt;a href="https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold"&gt;&lt;i&gt;The Crock of Gold&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/46558</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.79406</dc:source>

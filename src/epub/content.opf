@@ -30,9 +30,9 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Demi-Gods</dc:title>
 		<meta property="file-as" refines="#title">Demi-Gods, The</meta>
-		<dc:subject id="subject-1">Ireland -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Tramps -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Angels -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Ireland--Fiction</dc:subject>
+		<dc:subject id="subject-2">Tramps--Fiction</dc:subject>
+		<dc:subject id="subject-3">Angels--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008104236</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
